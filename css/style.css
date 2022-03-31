@@ -1,1 +1,11 @@
-/* No CSS *//*# sourceMappingURL=style.css.map */
+.test2 .main {
+  border: 2px solid #f00;
+  width: 100px;
+  text-align: center;
+}
+
+.test2 .main p {
+  color: aqua;
+  font-size: 200%;
+}
+/*# sourceMappingURL=style.css.map */
